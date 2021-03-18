@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\HeapTree\\HeapTree\\HeapTree.csproj",
+      "projectUniqueName": "E:\\HeapTree\\HeapTree\\HeapTree.csproj",
       "projectName": "HeapTree",
-      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\HeapTree\\HeapTree\\HeapTree.csproj",
+      "projectPath": "E:\\HeapTree\\HeapTree\\HeapTree.csproj",
       "packagesPath": "C:\\Users\\Liron.Saedi\\.nuget\\packages\\",
-      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\HeapTree\\HeapTree\\obj\\",
+      "outputPath": "E:\\HeapTree\\HeapTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
